@@ -1,0 +1,16 @@
+.CryptocurrencyPage-container{
+    background-color: rgba(30, 35, 41, 1);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.CryptocurrencyPage{
+    height: calc(100vh - 200px);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
